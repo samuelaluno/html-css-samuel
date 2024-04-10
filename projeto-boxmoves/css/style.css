@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif ;
+}
+  
+h1 {
+    text-align: center;
+}
+span {
+    color: #febe01;
+}
+h2 {
+    color: #fff;
+    margin: 0px;
+}
+p {
+    color: #b2b2b2;
+}
+.produto {
+    background: #111;
+    border-radius: 4px;
+    padding: 20px;
+    height: 150;
+    margin: 20px;
+    margin-top: 50;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.botão {
+    background: #febe01;
+    color: #332200;
+    padding:10px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 4px;
+}
